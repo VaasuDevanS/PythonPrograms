@@ -585,3 +585,11 @@ for i in x(n):
     for k in x(i+1):print str(F(i)/(F(k)*F(i-k)))+"  ",
     print 
 print "########################################"
+
+
+'''  Program 78  '''
+print "Program 78--> Two Way Multiplication Table.."
+R=range
+n=input("Enter the size..")
+for i in R(1,n+1):print [i*j for j in R(1,n+1)]
+print "########################################"
