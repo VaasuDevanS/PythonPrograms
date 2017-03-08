@@ -1,0 +1,5 @@
+# Factorial of a given number
+# FLAMES Program
+# Prime Factors
+# Mobile Phone Numbers to text
+# Sum of digits of binary value of the given number
